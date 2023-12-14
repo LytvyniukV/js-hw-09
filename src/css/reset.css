@@ -33,3 +33,14 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.link{
+  font-size: 36px;
+  display: block;
+  margin-bottom: 30px;
+}
+
+.link:hover,
+.link:focus{
+  color: aquamarine;
+}
